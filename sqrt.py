@@ -6,4 +6,4 @@ Created on Fri Jan 18 11:12:32 2019
 """
 
 def sqrt(x):
-    return (x**0.5)
+    return (round(x**0.5,3))
